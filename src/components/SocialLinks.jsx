@@ -9,7 +9,7 @@ const SocialLinks = () => {
 
         {
             id: 1,
-            child: (
+            child: ( 
 
                 <>
                 LinkedIn <FaLinkedin size={30} />
